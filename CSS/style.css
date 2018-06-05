@@ -1,0 +1,17 @@
+#video {
+    width: 50%;
+    margin-right: 20px;
+    height: 60vh;
+}
+#container {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.card-header{
+    background-color: #358ec7;
+}
+.btn-link {
+    color: white;
+}
