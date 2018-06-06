@@ -1,6 +1,7 @@
 #video {
     margin-right: 20px;
     height: 60vh;
+    width: 100%;
 }
 #container {
     width: 100%;
@@ -15,4 +16,7 @@
 }
 #accordion2 {
     margin-top: 50px;
+}
+.check {
+    margin: 0 auto;
 }
